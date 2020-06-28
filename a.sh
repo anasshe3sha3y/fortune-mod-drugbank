@@ -3,6 +3,7 @@
 # TODO eye candy for headers
 # TODO Do not print /*NAME*/
 # TODO Remve refs enclosed between []
+# TODO Merge the two awks into one program
     #   Curl | unzip | awk | mv | strfile
     # $1: Drugbank Email
     # $2: Drugbank Password
