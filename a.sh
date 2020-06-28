@@ -1,5 +1,8 @@
 #!/bin/bash
 # TODO README.md
+# TODO eye candy for headers
+# TODO Do not print /*NAME*/
+# TODO Remve refs enclosed between []
     #   Curl | unzip | awk | mv | strfile
     # $1: Drugbank Email
     # $2: Drugbank Password
