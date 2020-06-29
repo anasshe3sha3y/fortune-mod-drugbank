@@ -4,6 +4,8 @@
 # TODO Do not print /*NAME*/
 # TODO Remve refs enclosed between []
 # TODO Merge the two awks into one program
+# TODO Fetch Drugbank email and password from environment
+# TODO people do not like their passwords exposed like that.
     #   Curl | unzip | awk | mv | strfile
     # $1: Drugbank Email
     # $2: Drugbank Password
